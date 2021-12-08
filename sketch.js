@@ -34,3 +34,4 @@ function draw() {
   fill('Red')
   torus(windowWidth/10, 20, 100, 100);
 }
+
