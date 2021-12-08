@@ -34,8 +34,8 @@ function draw() {
   fill('Red')
   torus(windowWidth/10, 20, 100, 100);
 
-  rotateX(frameCount * 0)
-  rotateY(frameCount * 0)
-  fill('silver')
+  rotateX(frameCount * 0.01)
+  rotateY(frameCount * 0.01)
+  fill('white')
   sphere(20, 100, 100)
 }
